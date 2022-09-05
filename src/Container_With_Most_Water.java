@@ -10,7 +10,6 @@ class Solution {
     public int maxArea(int[] height) {
         int start = 0;
         int end = height.length-1;
-        
         int result = 0;
         while(end > start){
             int x = end-start;
