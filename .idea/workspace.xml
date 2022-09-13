@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b872e23-cdd0-4c8b-b64a-2f9da388f45c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Product_of_Array_Except_Self/Product_of_Array_Except_Self.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,33 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Container_With_Most_Water.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Container_With_Most_Water/Container_With_Most_Water.java">
+      <file leaf-file-name="Product_of_Array_Except_Self.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Product_of_Array_Except_Self/Product_of_Array_Except_Self.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Contains_Duplicate.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Contains_Duplicate/Contains_Duplicate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" column="50" lean-forward="false" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1297">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="330">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -75,6 +54,7 @@
         <option value="$PROJECT_DIR$/src/Two_Sum/Two_Sum.java" />
         <option value="$PROJECT_DIR$/src/Contains_Duplicate/Contains_Duplicate.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/Product_of_Array_Except_Self/Product_of_Array_Except_Self.java" />
       </list>
     </option>
   </component>
@@ -126,20 +106,14 @@
               <item name="leet-code-practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="leet-code-practice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Contains_Duplicate" type="462c0819:PsiDirectoryNode" />
+              <item name="Product_of_Array_Except_Self" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leet-code-practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="leet-code-practice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Contains_Duplicate" type="462c0819:PsiDirectoryNode" />
-              <item name="Contains_Duplicate.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="leet-code-practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leet-code-practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Two_Sum" type="462c0819:PsiDirectoryNode" />
+              <item name="Product_of_Array_Except_Self" type="462c0819:PsiDirectoryNode" />
+              <item name="Product_of_Array_Except_Self.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -166,7 +140,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Contains_Duplicate">
+  <component name="RunManager" selected="Application.Product_of_Array_Except_Self">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -221,6 +195,25 @@
       <module name="leet-code-practice" />
       <envs />
     </configuration>
+    <configuration name="Product_of_Array_Except_Self" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Product_of_Array_Except_Self.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Product_of_Array_Except_Self.Product_of_Array_Except_Self" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="leet-code-practice" />
+      <envs />
+    </configuration>
     <configuration name="Two_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Two_Sum.Two_Sum" />
@@ -247,20 +240,6 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
-      <envs />
-    </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="test" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="leet-code-practice" />
       <envs />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -324,19 +303,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.test" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Two_Sum" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Container_With_Most_Water" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Contains_Duplicate" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Two_Sum" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Container_With_Most_Water" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Contains_Duplicate" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Product_of_Array_Except_Self" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Contains_Duplicate" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Container_With_Most_Water" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Two_Sum" />
-        <item index="4" class="java.lang.String" itemvalue="Application.test" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Product_of_Array_Except_Self" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Contains_Duplicate" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Container_With_Most_Water" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Two_Sum" />
       </list>
     </recent_temporary>
   </component>
@@ -355,7 +334,7 @@
       <updated>1662417236639</updated>
       <workItem from="1662417240804" duration="2721000" />
       <workItem from="1662557554177" duration="142000" />
-      <workItem from="1663026823020" duration="1984000" />
+      <workItem from="1663026823020" duration="2619000" />
     </task>
     <task id="LOCAL-00001" summary="1. Two Sum">
       <created>1662418607909</created>
@@ -399,11 +378,18 @@
       <option name="project" value="LOCAL" />
       <updated>1663028731177</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added git ignore file">
+      <created>1663028826919</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663028826919</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4847000" />
+    <option name="totallyTimeSpent" value="5482000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-2" width="1920" height="1082" extended-state="6" />
@@ -453,7 +439,8 @@
     <MESSAGE value="11. Container With Most Water" />
     <MESSAGE value="Added recursion" />
     <MESSAGE value="217. Contains Duplicate" />
-    <option name="LAST_COMMIT_MESSAGE" value="217. Contains Duplicate" />
+    <MESSAGE value="Added git ignore file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added git ignore file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -497,14 +484,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Container_With_Most_Water/Container_With_Most_Water.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Contains_Duplicate/Contains_Duplicate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -517,8 +496,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1297">
+        <state relative-caret-position="-984">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Container_With_Most_Water/Container_With_Most_Water.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Product_of_Array_Except_Self/Product_of_Array_Except_Self.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
