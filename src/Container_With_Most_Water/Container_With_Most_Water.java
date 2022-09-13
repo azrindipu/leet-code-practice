@@ -8,6 +8,8 @@ public class Container_With_Most_Water {
     }
 }
 
+//TC: o(n)
+//SC: o(1)
 class Solution {
     public int maxArea(int[] height) {
         int start = 0;
