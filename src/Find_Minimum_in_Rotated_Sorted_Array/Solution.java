@@ -7,16 +7,13 @@ public class Solution {
         int min = nums[0];
         while (end>=start){
             if(nums[end] > nums[start]){
-                min=Math.min(min, nums[start]);
-                break;
+               min=Math.min(min, nums[start]);
+               break;
             }
             int mid = start+(end-start)/2;
-            min = Math.min(min, nums[mid]);
-            if(nums[mid] >= nums[start]){
-                start=mid+1;
-            }else{
-                end=mid-1;
-            }
+            min=Math.min(min, nums[mid]);
+            if(nums[mid]>=nums[start]) start=mid+1;
+            else end=mid-1;
         }
         return min;
     }
