@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b872e23-cdd0-4c8b-b64a-2f9da388f45c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/maximum_subarray/Solution.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/maximum_subarray/Solution1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/maximum_subarray/Solution2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/maximum_subarray/maximum_subarray.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/maximum_subarray/maximum_subarray.java" afterPath="$PROJECT_DIR$/src/maximum_subarray/maximum_subarray.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -80,21 +77,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="maximum_subarray.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="maximum_subarray.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/maximum_subarray/maximum_subarray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="43" lean-forward="false" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+            <state relative-caret-position="330">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Solution2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/maximum_subarray/Solution2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="66">
+              <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -460,7 +457,7 @@
       <workItem from="1663145496849" duration="1335000" />
       <workItem from="1663177658892" duration="2732000" />
       <workItem from="1663193610216" duration="4046000" />
-      <workItem from="1663245296862" duration="6797000" />
+      <workItem from="1663245296862" duration="6845000" />
     </task>
     <task id="LOCAL-00001" summary="1. Two Sum">
       <created>1662418607909</created>
@@ -588,11 +585,18 @@
       <option name="project" value="LOCAL" />
       <updated>1663271370101</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="53. Maximum Subarray">
+      <created>1663277805867</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1663277805867</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27794000" />
+    <option name="totallyTimeSpent" value="27842000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-2" width="1920" height="1082" extended-state="6" />
@@ -650,7 +654,8 @@
     <MESSAGE value="added recursion" />
     <MESSAGE value="153. Find Minimum in Rotated Sorted Array" />
     <MESSAGE value="15. 3Sum" />
-    <option name="LAST_COMMIT_MESSAGE" value="15. 3Sum" />
+    <MESSAGE value="53. Maximum Subarray" />
+    <option name="LAST_COMMIT_MESSAGE" value="53. Maximum Subarray" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -928,18 +933,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/maximum_subarray/maximum_subarray.java">
+    <entry file="file://$PROJECT_DIR$/src/maximum_subarray/Solution2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="43" lean-forward="false" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+        <state relative-caret-position="66">
+          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/maximum_subarray/Solution2.java">
+    <entry file="file://$PROJECT_DIR$/src/maximum_subarray/maximum_subarray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="330">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
