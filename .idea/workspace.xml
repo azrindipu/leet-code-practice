@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b872e23-cdd0-4c8b-b64a-2f9da388f45c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/three_sum/Solution1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/three_sum/ThreeSum.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/three_sum/Solution.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/three_sum/ThreeSum.java" afterPath="$PROJECT_DIR$/src/three_sum/ThreeSum.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ThreeSum.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ThreeSum.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/three_sum/ThreeSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="53" lean-forward="false" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+            <state relative-caret-position="374">
+              <caret line="17" column="34" lean-forward="false" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -59,9 +59,21 @@
       <file leaf-file-name="Solution1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/three_sum/Solution1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="21" column="29" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+            <state relative-caret-position="88">
+              <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="22" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/three_sum/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="59">
+              <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -107,8 +119,9 @@
         <option value="$PROJECT_DIR$/src/Search_in_Rotated_Sorted_Array/Main.java" />
         <option value="$PROJECT_DIR$/src/Find_Minimum_in_Rotated_Sorted_Array/Main.java" />
         <option value="$PROJECT_DIR$/src/Find_Minimum_in_Rotated_Sorted_Array/Solution.java" />
-        <option value="$PROJECT_DIR$/src/three_sum/ThreeSum.java" />
         <option value="$PROJECT_DIR$/src/three_sum/Solution1.java" />
+        <option value="$PROJECT_DIR$/src/three_sum/ThreeSum.java" />
+        <option value="$PROJECT_DIR$/src/three_sum/Solution.java" />
       </list>
     </option>
   </component>
@@ -401,7 +414,7 @@
       <workItem from="1663145496849" duration="1335000" />
       <workItem from="1663177658892" duration="2732000" />
       <workItem from="1663193610216" duration="4046000" />
-      <workItem from="1663245296862" duration="2192000" />
+      <workItem from="1663245296862" duration="3621000" />
     </task>
     <task id="LOCAL-00001" summary="1. Two Sum">
       <created>1662418607909</created>
@@ -515,11 +528,18 @@
       <option name="project" value="LOCAL" />
       <updated>1663268868214</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="15. 3Sum">
+      <created>1663269942018</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1663269942018</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23189000" />
+    <option name="totallyTimeSpent" value="24618000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-2" width="1920" height="1082" extended-state="6" />
@@ -576,7 +596,8 @@
     <MESSAGE value="33. Search in Rotated Sorted Array" />
     <MESSAGE value="added recursion" />
     <MESSAGE value="153. Find Minimum in Rotated Sorted Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="153. Find Minimum in Rotated Sorted Array" />
+    <MESSAGE value="15. 3Sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="15. 3Sum" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -593,8 +614,20 @@
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/three_sum/Solution.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/three_sum/Solution.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="4" />
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -802,17 +835,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/three_sum/Solution1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="29" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        <state relative-caret-position="88">
+          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/three_sum/ThreeSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="53" lean-forward="false" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+        <state relative-caret-position="374">
+          <caret line="17" column="34" lean-forward="false" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="34" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/three_sum/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
