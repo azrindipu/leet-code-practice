@@ -1,4 +1,4 @@
-package maximum_subarray;
+package Array.maximum_subarray;
 
 public class maximum_subarray {
     public static void main(String[] args){
