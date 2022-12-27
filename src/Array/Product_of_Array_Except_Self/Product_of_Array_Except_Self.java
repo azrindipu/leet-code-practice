@@ -1,4 +1,4 @@
-package Product_of_Array_Except_Self;
+package Array.Product_of_Array_Except_Self;
 
 public class Product_of_Array_Except_Self {
     public static void main(String[] args){
