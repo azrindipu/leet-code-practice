@@ -30,4 +30,12 @@ public class LinkedListHelper {
         }
         System.out.println();
     }
+
+    public ListNode getTail(ListNode head){
+        ListNode tempHead = head;
+        while (tempHead.next != null){
+            tempHead = tempHead.next;
+        }
+        return tempHead;
+    }
 }

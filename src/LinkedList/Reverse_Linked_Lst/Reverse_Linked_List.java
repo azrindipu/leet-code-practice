@@ -1,6 +1,9 @@
-package LinkedList;
+package LinkedList.Reverse_Linked_Lst;
 
-public class reverse_linked_ist {
+import LinkedList.LinkedListHelper;
+import LinkedList.ListNode;
+
+public class Reverse_Linked_List {
     public static void main(String[] args){
         LinkedListHelper helper = new LinkedListHelper();
         ListNode head = helper.createBasicList();
