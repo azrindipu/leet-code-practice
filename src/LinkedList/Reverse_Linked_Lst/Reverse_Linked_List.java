@@ -17,14 +17,13 @@ public class Reverse_Linked_List {
 class Solution {
     public ListNode reverseList(ListNode head) {
         if(head == null || head.next == null) return head;
-        ListNode fastPointer = head;
-        ListNode slowPointer = null;
-        while (fastPointer != null){
-            ListNode temp = fastPointer.next;
-            fastPointer.next = slowPointer;
-            slowPointer = fastPointer;
-            fastPointer = temp;
+        ListNode prev = null;
+        while (head != null){
+            ListNode temp = head.next;
+            head.next = prev;
+            prev = head;
+            head = temp;
         }
-        return slowPointer;
+        return prev;
     }
 }

@@ -21,6 +21,17 @@ public class LinkedListHelper {
         return head;
     }
 
+    public ListNode createBasicList(boolean another){
+        if(!another) return null;
+        ListNode head = null;
+        head = this.insertLast(6, head);
+        head = this.insertLast(7, head);
+        head = this.insertLast(8, head);
+        head = this.insertLast(9, head);
+        head = this.insertLast(10, head);
+        return head;
+    }
+
     public void printList(ListNode head){
         ListNode tempHead = head;
         System.out.println("LIST: ");
