@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b872e23-cdd0-4c8b-b64a-2f9da388f45c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/two_pointers/Valid_Palindrome/Container_With_Most_Water/Container_With_Most_Water.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/two_pointers/Valid_Palindrome/ThreeSum/ThreeSum.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/two_pointers/Valid_Palindrome/Valid_Palindrome.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/slidingWindow/Best_Time_to_Buy_and_Sell_Stock/Best_Time_to_Buy_and_Sell_Stock.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/problemLink.txt" afterPath="$PROJECT_DIR$/src/problemLink.txt" />
     </list>
@@ -64,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/src/two_pointers/Valid_Palindrome/Container_With_Most_Water/Container_With_Most_Water.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="528">
-              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+              <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -74,17 +72,27 @@
         <entry file="file://$PROJECT_DIR$/src/two_pointers/Valid_Palindrome/ThreeSum/ThreeSum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="17" column="53" lean-forward="true" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
+              <caret line="17" column="53" lean-forward="false" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="problemLink.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="problemLink.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/problemLink.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="56" lean-forward="false" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+            <state relative-caret-position="352">
+              <caret line="16" column="62" lean-forward="false" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Best_Time_to_Buy_and_Sell_Stock.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/slidingWindow/Best_Time_to_Buy_and_Sell_Stock/Best_Time_to_Buy_and_Sell_Stock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="23" column="25" lean-forward="false" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -95,18 +103,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
               <caret line="17" column="47" lean-forward="false" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Group_Anagrams.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Array/Group_Anagrams/Group_Anagrams.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="10" column="44" lean-forward="false" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -150,7 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/practice/recursion/Main.java" />
         <option value="$PROJECT_DIR$/src/Search_in_Rotated_Sorted_Array/Solution.java" />
         <option value="$PROJECT_DIR$/src/Search_in_Rotated_Sorted_Array/Solution1.java" />
         <option value="$PROJECT_DIR$/src/Search_in_Rotated_Sorted_Array/Main.java" />
@@ -201,6 +196,7 @@
         <option value="$PROJECT_DIR$/src/two_pointers/Valid_Palindrome/Container_With_Most_Water/Container_With_Most_Water.java" />
         <option value="$PROJECT_DIR$/src/two_pointers/Valid_Palindrome/ThreeSum/ThreeSum.java" />
         <option value="$PROJECT_DIR$/src/problemLink.txt" />
+        <option value="$PROJECT_DIR$/src/slidingWindow/Best_Time_to_Buy_and_Sell_Stock/Best_Time_to_Buy_and_Sell_Stock.java" />
       </list>
     </option>
   </component>
@@ -233,9 +229,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -248,24 +244,11 @@
               <item name="leet-code-practice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="leet-code-practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leet-code-practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Valid_Palindrome" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leet-code-practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leet-code-practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Valid_Palindrome" type="462c0819:PsiDirectoryNode" />
-              <item name="Valid_Palindrome.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -286,7 +269,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThreeSum">
+  <component name="RunManager" selected="Application.Best_Time_to_Buy_and_Sell_Stock">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -294,14 +277,14 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="Container_With_Most_Water" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Best_Time_to_Buy_and_Sell_Stock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="two_pointers.Valid_Palindrome.Container_With_Most_Water.*" />
+          <option name="PATTERN" value="slidingWindow.Best_Time_to_Buy_and_Sell_Stock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="two_pointers.Valid_Palindrome.Container_With_Most_Water.Container_With_Most_Water" />
+      <option name="MAIN_CLASS_NAME" value="slidingWindow.Best_Time_to_Buy_and_Sell_Stock.Best_Time_to_Buy_and_Sell_Stock" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -313,14 +296,14 @@
       <module name="leet-code-practice" />
       <envs />
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Container_With_Most_Water" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="practice.*" />
+          <option name="PATTERN" value="two_pointers.Valid_Palindrome.Container_With_Most_Water.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="practice.Main" />
+      <option name="MAIN_CLASS_NAME" value="two_pointers.Valid_Palindrome.Container_With_Most_Water.Container_With_Most_Water" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -464,19 +447,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Valid_Parentheses" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Valid_Palindrome" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Container_With_Most_Water" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ThreeSum" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Valid_Parentheses" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Valid_Palindrome" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Container_With_Most_Water" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ThreeSum" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Best_Time_to_Buy_and_Sell_Stock" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ThreeSum" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Container_With_Most_Water" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Valid_Palindrome" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Valid_Parentheses" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Main (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Best_Time_to_Buy_and_Sell_Stock" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ThreeSum" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Container_With_Most_Water" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Valid_Palindrome" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Valid_Parentheses" />
       </list>
     </recent_temporary>
   </component>
@@ -527,7 +510,8 @@
       <workItem from="1672927494511" duration="9242000" />
       <workItem from="1673014708141" duration="1307000" />
       <workItem from="1673017784508" duration="18000" />
-      <workItem from="1673173955674" duration="4622000" />
+      <workItem from="1673173955674" duration="5829000" />
+      <workItem from="1673345897911" duration="257000" />
     </task>
     <task id="LOCAL-00001" summary="1. Two Sum">
       <created>1662418607909</created>
@@ -739,14 +723,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673015119426</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Practice">
+      <created>1673180643245</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1673180643245</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95767000" />
+    <option name="totallyTimeSpent" value="97231000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <frame x="87" y="342" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -757,8 +748,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18290043" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18290043" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32912722" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Jenkins" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -770,8 +761,8 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21766561" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21766561" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -911,7 +902,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/practice/binary_search/BinarySearchWithRecursion.java" />
     <entry file="file://$PROJECT_DIR$/src/practice/binary_search/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/practice/recursion/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/Search_in_Rotated_Sorted_Array/Search_in_Rotated_Sorted_Array.java" />
@@ -1013,7 +1003,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="638">
           <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1021,7 +1010,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="28" column="62" lean-forward="false" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="62" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1029,9 +1017,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="7" column="57" lean-forward="false" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1101,7 +1086,7 @@
     <entry file="file://$PROJECT_DIR$/src/two_pointers/Valid_Palindrome/Container_With_Most_Water/Container_With_Most_Water.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -1109,15 +1094,23 @@
     <entry file="file://$PROJECT_DIR$/src/two_pointers/Valid_Palindrome/ThreeSum/ThreeSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="17" column="53" lean-forward="true" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
+          <caret line="17" column="53" lean-forward="false" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/problemLink.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="56" lean-forward="false" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+        <state relative-caret-position="352">
+          <caret line="16" column="62" lean-forward="false" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/slidingWindow/Best_Time_to_Buy_and_Sell_Stock/Best_Time_to_Buy_and_Sell_Stock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="25" lean-forward="false" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
           <folding />
         </state>
       </provider>
